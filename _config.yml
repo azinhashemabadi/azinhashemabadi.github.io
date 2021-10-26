@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "آذین هاشم ابادی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "azin" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Toorrang Atashi"
+  name             : "azin hashemabadi"
   avatar           : "/assets/images/WhatsApp Image 2021-10-25 at 14.33.54.jpeg"
   bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : ahashemabadi@gmail.com
+  twitter:
+  linkedin:
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: azin
+  instagram: __azin__h
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
