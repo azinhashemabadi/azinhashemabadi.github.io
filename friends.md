@@ -9,10 +9,10 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [الهام غلامی](elhamgholami.github.io)
-* [آیدا نجفی](aidaajafi.github.io)
-* [صبا کیانوش](sabakianoosh.github.io)
-* [محیا چراغی](mahyacheraghi.github.io)
-* [مبینا اسمعیل پور](mobinaesmaeilpour.github.io)
+* [الهام غلامی](http://elhamgholami.github.io)
+* [آیدا نجفی](http://aidaajafi.github.io)
+* [صبا کیانوش](http://sabakianoosh.github.io)
+* [محیا چراغی](http://mahyacheraghi.github.io)
+* [مبینا اسمعیل پور](https://mobinaesmaeilpour.github.io/)
 
 
