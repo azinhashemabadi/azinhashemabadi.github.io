@@ -108,12 +108,12 @@ analytics:
 # Site Author
 author:
   name             : "azin hashemabadi"
-  avatar           : "/assets/images/bio-photo.jpeg"
+  avatar           : "/assets/images/IMG_20190804_131351_074.jpeg"
   bio              : I'm a student of Computer Engineering at IUST.
   location         : "تهران"
   email            : ahashemabadi@gmail.com
   twitter:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/azin-hashemabadi-1b40b4225/
   google_scholar: Q25s5KkAAAAJ
   github: azin
   instagram: __azin__h
@@ -139,9 +139,9 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/pourrang_atashi"
-    - label: "Telegram"
-      icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+    # - label: "Telegram"
+    #   icon: "fab fa-telegram"
+    #   url: "http://t.me/Sauleh"
 
 # Site Footer
 footer:
