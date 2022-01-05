@@ -11,10 +11,10 @@ gallery:
     image_path: /assets/images/20210926_085841.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  # - url: /assets/images/1.jpg
-  #   image_path: /assets/images/1.jpg
-  #   alt: "placeholder image 1"
-  #   title: "Image 1 title caption"
+  - url: /assets/images/photo_2022-01-05_10-22-13.jpg
+    image_path: /assets/images/photo_2022-01-05_10-22-13.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
   # - url: /assets/images/2.jpg
   #   image_path: /assets/images/2.jpg
   #   alt: "placeholder image 2"
